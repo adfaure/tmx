@@ -66,7 +66,7 @@ impl Data {
 
 #[derive(Debug, Default)]
 pub struct DataTile {
-    gid: i32,
+   pub gid: i32,
 }
 
 impl DataTile {
